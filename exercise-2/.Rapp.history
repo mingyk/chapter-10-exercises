@@ -1,0 +1,123 @@
+vector_1 <- c("Employee")
+vector_2 <- 1:100
+Employee <- c(paste(vector_1, vector_2))
+Employee
+employee <- c(paste(vector_1, vector_2))
+salaries <- runif(100, min = 40000, max = 50000)
+salaries
+salaries <- c(runif(100, min = 40000, max = 50000))
+salary_adjustments <- c(runif(100, min = -5000, max = 10000))
+salary_adjustments
+salaries <- c(round(runif(100, min = 40000, max = 50000), 2)
+salary_adjustments <- c(round(runif(100, min = -5000, max = 10000), 2)
+salary_adjustments <- c(round(runif(100, min = -5000, max = 10000), 2))
+salaries <- c(round(runif(100, min = 40000, max = 50000), 2))
+salaries
+salary_adjustments <- c(round(runif(100, min = -5000, max = 10000), 2))
+salary_adjustments
+random_salaries <- c(round(runif(100, min = 40000, max = 50000), 2))
+salaries <- data.frame(employee, random_salaries, salary_adjustment)
+salaries <- data.frame(employee, random_salaries, salary_adjustment, stringAsFactors = FALSE)
+salaries <- data.frame(employee, random_salaries, salary_adjustments, stringAsFactors = FALSE)
+salaries
+salaries$salaries <- (random_salaries - salary_adjustments)
+salaries$salaries
+salaries
+2017_salaries <- c(round(runif(100, min = 40000, max = 50000), 2))
+salaries17 <- c(round(runif(100, min = 40000, max = 50000), 2))
+salaries <- data.frame(employee, salaries17, salary_adjustments, stringAsFactors = FALSE)
+salaries$salaries18 <- (salaries17 - salary_adjustments)
+salaries
+salaries$raise <- (salaries18 - salaries17 > 0)
+salaries$salaries18 <- (salaries17 - salary_adjustments)
+salaries$raise <- (salaries18 - salaries17 > 0)
+salaries$raise <- (salary_adjustments > 0)
+salaries
+salaries
+salaries <- data.frame(employee, salaries17, salary_adjustments, stringAsFactors = FALSE)
+salaries$salaries18 <- (salaries17 - salary_adjustments)
+salaries$raise <- (salary_adjustments > 0)
+salaries
+salaries <- data.frame(employee, salaries17, salary_adjustments, stringAsFactors = FALSE)
+salaries
+salaries$salaries18 <- (salaries17 - salary_adjustments)
+salaries
+salaries$raise <- (salary_adjustments > 0)
+salaries
+salaries$salaries18 <- (salaries17 + salary_adjustments)
+salaries$raise <- (salary_adjustments > 0)
+salaries
+salaries[87, salaries18]
+salaries[salaries18]
+salaries[87, 5]
+length(salaries$6 = TRUE)
+length(salaries[6] = TRUE)
+length(salaries[6] == TRUE)
+salaries[6] == TRUE
+salaries[5] > salaries [2]
+salaries[5] - salaries[2] > 0
+salaries[5] - salaries[2] > 0
+salaries[87, 5]
+salaries[5 - 2]
+salaries[6]
+salaries[6] == FALSE
+salaries[, 6]
+salaries[, 6] == TRUE
+salaries[, 6] > 0
+return(salaries[, 6] > 0)
+print(salaries[, 6] > 0)
+print(salaries[, 6] == TRUE)
+print(salaries[, 6] == "TRUE")
+salaries
+salaries[salaries[6] == TRUE]
+salaries[salaries[,6] == TRUE]
+salaries[salaries == TRUE]
+length(salaries[salaries == TRUE])
+max(salaries, 5)
+max(salaries, 3)
+max(salaries[3])
+salaries[salaries[3] == 9924.65]
+salaries[salaries == 9924.65]
+salaries[salaries[1] == 9924.65]
+salaries[salaries[3] == 9924.65]
+salaries[3] == 9924.65
+salaries[salaries[3] == 9924.65, 1]
+length(salaries[salaries[6] == TRUE])
+length(salaries[salaries[6] == TRUE], 6)
+length(salaries[salaries == TRUE])
+length(salaries[salaries == TRUE])
+salaries[salaries[3] == 9924.65, 1]
+salaries[(salaries[3] == 9924.65), 1]
+min(salaries[3])
+salaries[salaries[3] == -4724.44, 1]
+salaries[salaries[3] == 9924.65, 1]
+mean(salaries[3])
+mean(tocharacter(salaries[3]))
+mean(toString(salaries[3]))
+mean(numeric(salaries[3]))
+mean(as.character(salaries[3]))
+as.character(salaries[3])
+mean(salary_adjustmenrs)
+mean(salary_adjustments)
+mean(as.character(salaries[[3]]))
+mean((salaries[[3]]))
+round(mean((salaries[[3]])),2)
+mean(salaries[[3]] < 0)
+salaries[[3]] < 0
+salaries[3] < 0
+salaries[6] == FALSE
+alaries[salaries == TRUE]
+salaries[salaries == TRUE]
+salaries[salaries[6] == FALSE]
+salaries[salaries == FALSE]
+[salaries[[6]] == FALSE]
+[salaries[6] == FALSE]
+salaries[salaries[6] == FALSE],
+salaries[salaries[6] == FALSE]
+salaries[salaries[6] == FALSE, 3]
+mean(salaries[[salaries[6] == FALSE, 3]])
+mean(salaries[salaries[6] == FALSE, 3])
+round(mean(salaries[salaries[6] == FALSE, 3]),2)
+write.csv(salaries, "2017-2018 Salary Adjustments", row.names = FALSE)
+getwd()
+getwd()
